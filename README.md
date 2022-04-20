@@ -1,54 +1,70 @@
-# Book-Lookup
+ ## Books-Search-MERN
+  
+  ## About The Project
 
-## Description
+  This application ia a Google Books API search engine that utilizes a GraphQL API built with Apollo Server. The user can create an account, lookup books and save books they like.
+  ## Table of Contents
 
-This application is a Google Books API search engine that utilizes a GraphQL API built with Apollo Server. The user can create an account, lookup books, and save any books they are interested in.
+  * [Installation](#installation)
 
-## Table of Contents
+  * [Built With](#languages)
+  
+  * [Usage](#usage)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [Screenshots](#screenshots)
-- [Link to Deployed Application](#link-to-deployed-application)
-- [Questions](#questions)
+  * [Deployed](#deployed)
 
-## Installation
+  * [Contributing](#contributing)
 
-To install this application, clone the github repository and navigate to the root directory.
+  * [Screenshot](#screenshot)
 
-## Usage
+  * [Questions](#questions)
 
-To use this application following installation, run the following commands from the CLI:
+  ## Installation
 
-- Install dependencies: `npm install`
+  To run locally, run the following command:
+  
+  To install dependencies: npm i
 
-- To start the server: `node server.js`
+ 
 
-IMPORTANT: You must have Node.js to use this application!
+  ## Built With
 
-## Built With
+ Service worker
+ MongoDB
+ IndexDB
+ Express
+ JS
+ Mongoose
+ Node
+ GraphQL
+ Apollo Server
 
-- Node.js
-- Apollo Server
-- GraphQL
-- Javascript
-- React
-- MongoDB
-- Mongoose
-- Express.js
+  ## Usage
 
-## Screenshots
+   To start server: npm start
 
-![screenshot-cryptic-lowlands-78177 herokuapp com-2022 04 16-21_32_11](https://user-images.githubusercontent.com/91770168/163696539-e6a5a7c0-d6c6-45ac-b642-e94d994ef748.jpg)
+   You must have Node to run this app 
+   
+  ## Contributing
 
-![screenshot-cryptic-lowlands-78177 herokuapp com-2022 04 16-21_32_54](https://user-images.githubusercontent.com/91770168/163696531-b82de067-1fb7-41a5-b6a9-e961e286e45f.jpg)
+  @tinastouch @cnb10100 @wiffin
 
-## Link to Deployed Application
+## Screenshot
 
-https://cryptic-lowlands-78177.herokuapp.com/
+<img width="1222" alt="Screen Shot 2022-04-19 at 9 01 19 PM" src="https://user-images.githubusercontent.com/93742788/164126870-3619dc27-df1e-483f-9c07-ee57bede44e2.png">
 
+<img width="1222" alt="Screen Shot 2022-04-19 at 9 03 31 PM" src="https://user-images.githubusercontent.com/93742788/164126884-7925f10a-7649-4c49-97f8-598d772aa129.png">
+
+
+ ## Deployed
+  
+  https://murmuring-caverns-51142.herokuapp.com/
+  
 ## Questions
 
-If you have any questions, feel free to contact me at cnb10100@gmail.com!
+If you have any questions about the repo, open an issue or contact me directly at
+tinastouch@gmail.com. 
+
+You can find more of my work at https://github.com/stevedusome.
+
 
